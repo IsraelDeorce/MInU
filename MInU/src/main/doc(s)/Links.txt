@@ -1,0 +1,27 @@
+Conceitos a serem estudados:
+CRUD
+MVC
+JSP E SERVLET
+
+=================================================================
+
+Command Design Pattern (Utilizado pelo Cassio no Audio Livros)
+https://www.youtube.com/watch?v=7Pj5kAhVBlg
+https://www.tutorialspoint.com/design_pattern/command_pattern.htm
+
+=================================================================
+
+Entendendo Servlet (Alerta de Indiano)
+https://www.youtube.com/watch?v=01mgc2rrr_o
+
+https://www.youtube.com/watch?v=Vvnliarkw48  << esse parece ser bom
+
+=================================================================
+
+Site ensinando a instalar o servlet
+https://www.javatpoint.com/creating-servlet-in-eclipse-ide
+
+
+
+
+
