@@ -1,22 +1,10 @@
-<html>
-	<body>
-		<h2>Hello World!</h2>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<!-- Informa ao browser a versão do HTML. Nesse caso HTML5. -->
+<html lang="pt-br">
+<!-- lang="pt-br" informa que a página está na linguagem português(Brasil) -->
 
-		<p>The time on the server is <%=new java.util.Date()%></p>
-		
-		<form action="Add" method="get">
-			Nome : <input type="text"><br>
-			Senha :<input type="text" name="senha"><br>
-			<input type="submit" value="Add">
-		</form>
-		
-		
-		
-				
-		
-		
+<jsp:include page="./template/head.jsp"></jsp:include>
 
-
-
-	</body>
-</html>
+<jsp:include page="./template/foot.jsp"></jsp:include>
